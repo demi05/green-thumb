@@ -1,0 +1,10 @@
+header {
+  display: flex;
+  align-items: center;
+  .status-elements {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+    gap: 1em;
+  }
+}
